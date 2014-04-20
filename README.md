@@ -65,5 +65,5 @@ zone_resources = response['data']
 rest_iface.execute('/Session/', 'DELETE')
 ```
 
-Documentation on the REST resources can be found at 
-https://manage.dynect.net/help/docs/api2/rest/resources/
+Documentation on the REST resources can be found at [here](https://help.dynect.net/dns-api-knowledge-base/)
+
